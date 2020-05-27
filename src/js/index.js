@@ -212,12 +212,6 @@ elements.enviar.addEventListener("click", (e) => {
         mensaje: mensaje,
         array: array,
         total: price,
-        plato1: array.items[0].unit,
-        count1: array.items[0].count,
-        plato2: array.items[1].unit,
-        count2: array.items[1].count,
-        plato3: array.items[2].unit,
-        count3: array.items[2].count,
       },
     };
 
